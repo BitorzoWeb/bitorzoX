@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 27 Aug 2020 07:13:18 at https://Bitorzo.org/en/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+Bitorzo
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://signal.org/en/ -O1 "C:\My Web Sites\BitcoLAN" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,BitorzoBitorzo
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+07:13:31	Warning: 	Retry after error -5 (Error attempting to solve status 206 (partial file)) at link https://signal.org/assets/inter/Inter-Regular-b825f1bc25dee8a67cf5a2c461410c2c755bca29b9297c8f930fe4486ba35dd3.woff (from https://signal.org/assets/ultramarine-a2815d7f3b4eb64754a6287ee073927e86f19e7f564c4aa010d62e9279e6dc07.css)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 seconds : 49 links scanned, 47 files written (2814480 bytes overall) [2328172 bytes received at 179090 bytes/sec], 674794 bytes transferred using HTTP compression in 6 files, ratio 23%, 12.2 requests per connection
+
+(No errors, 1 warnings, 0 messages)
+
